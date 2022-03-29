@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 copy the commands into your terminal
 
-- You need Node.js, Npm and git installed before hand.
+- You need Node.js, Npm, hardhat and git installed before hand.
   Confirm you have Node and Npm installed with the commands
 ```bash
 node --versison
@@ -29,10 +29,10 @@ A step by step series of examples that tell you how to get a development env run
 Once you've confirmed they are installed, clone this git repo and cd into the directory then install the dependencies
 
 ```
-git clone "GIT_REPO_URL"
+git clone https://github.com/prince-hope1975/Bank-DApp.git
 ```
 ```
-cd Bank
+cd "Bank DApp"
 ```
 ```
 npm install
